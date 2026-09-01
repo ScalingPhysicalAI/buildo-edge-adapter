@@ -1,0 +1,4 @@
+# Robot (STM32MP2, Python 3.12). Deliberately tiny: no PyTorch on the board.
+onnxruntime
+numpy
+pillow

@@ -1,0 +1,9 @@
+# Dev laptop (WSL2 Ubuntu, Python 3.10). Versions in use on the reference setup.
+torch>=2.13
+torchvision
+numpy
+pillow
+matplotlib
+onnx
+onnxruntime
+huggingface_hub

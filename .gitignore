@@ -1,0 +1,17 @@
+# Large reproducible artifacts (see README: models/ scripts regenerate these)
+*.onnx
+*.pt
+*.npy
+checkpoints/
+
+# Deployment-specific config (contains the live server address)
+pod_address.txt
+
+# Run outputs
+*.json
+*.log
+
+# Environments
+venv/
+edge-env/
+__pycache__/

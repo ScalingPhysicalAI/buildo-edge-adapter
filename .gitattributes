@@ -1,0 +1,9 @@
+# Everything here deploys to Linux machines (GPU pod, WSL, STM32MP2).
+# Force LF so checkouts on Windows don't silently break bash/python scripts.
+*.py text eol=lf
+*.sh text eol=lf
+*.md text eol=lf
+*.txt text eol=lf
+.gitignore text eol=lf
+.gitattributes text eol=lf
+*.png binary
